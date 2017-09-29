@@ -2,3 +2,7 @@
 	path = Payload-Software
 	url = https://github.com/OSU-USLI-17/Payload-Software.git
 	branch = master
+[submodule "Payload-Schematics"]
+	path = Payload-Schematics
+	url = https://github.com/OSU-USLI-17/Payload-Schematics.git
+	branch = master
