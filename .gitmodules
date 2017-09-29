@@ -1,0 +1,4 @@
+[submodule "Payload-Software"]
+	path = Payload-Software
+	url = https://github.com/OSU-USLI-17/Payload-Software.git
+	branch = master
